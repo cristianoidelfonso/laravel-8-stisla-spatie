@@ -27,7 +27,8 @@
 
 <div id="app">
     <div class="main-wrapper main-wrapper-1">
-        <div class="navbar-bg"></div>
+        <div class="navbar-bg">
+        </div>
         <nav class="navbar navbar-expand-lg main-navbar">
             @include('layouts.header')
 

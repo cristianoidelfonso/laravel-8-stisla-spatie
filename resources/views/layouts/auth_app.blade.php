@@ -30,7 +30,7 @@
                     </div>
                     @yield('content')
                     <div class="simple-footer">
-{{--                        Copyright &copy; {{ getSettingValue('application_name') }}  {{ date('Y') }}--}}
+                       Copyright &copy; {{ config('app.name', 'Ideltech') }}  {{ date('Y') }}
                     </div>
                 </div>
             </div>
