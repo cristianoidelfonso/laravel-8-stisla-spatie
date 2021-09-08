@@ -1,0 +1,3 @@
+*.sqlite*
+/seeders/PermissionsDemoSeeder.php
+/seeders/SuperAdminSeeder.php
